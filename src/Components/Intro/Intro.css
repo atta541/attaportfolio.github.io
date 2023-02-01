@@ -1,0 +1,33 @@
+.main-intro{
+    /* border: 2px solid blue; */
+    height: 400px;
+    width: 600px;
+}
+.heading{
+    background-color: rgb(223, 13, 251);
+    color: white;
+    height: 33px;
+    width: 190px;
+    margin-top: 12px;
+    margin-left: 6px;
+    /* border: 1px solid white; */
+    padding: 8px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.name{
+    color: white;
+    margin-left: 30px;
+
+}
+.para{
+    margin-left: 4px;
+    color: white;
+
+}
+.connect{
+    color: white;
+    margin-left: 8px;
+    cursor: pointer;
+    display: block;
+}

@@ -1,0 +1,24 @@
+.main{
+    /* background-color: aliceblue; */
+    background: transparent;
+    height: 80px;
+    width: 200vh;
+margin-left: 10px;
+border-radius: 15px;
+color: white;
+margin-top: 30px;
+box-shadow: 1px 1px 1px 2px rgb(255, 255, 255);
+
+}
+.main:hover{
+    cursor: pointer;
+    /* border: 2px solid rgb(243, 234, 234); */
+    /* box-shadow:rgb(243, 234, 234) ; */
+    box-shadow: 2px 2px 4px 7px rgb(255, 255, 255);
+
+}
+    .btn:hover{
+        box-shadow: 2px 2px 4px 7px rgb(98, 26, 243);
+        border:none;
+        
+    }
